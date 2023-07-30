@@ -154,8 +154,12 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Otueh James Chibueze - [Github](https://github.com/OChibu) / [Twitter](https://twitter.com/OtuehC)  
-Olowookun Sunday - [Github](https://github.com/Superstazdare) / [Twitter](https://twitter.com/Engr_asune)
+> Samierage Akaiso
+
+<!-- Linkedin -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/samierage/) <!-- github --> [![Github](https://img.shields.io/github/followers/samierage?style=social)](https://github.com/Samierage/)
+
+> Meseret Birhanu
 
 ## License
 Public Domain. No copy write protection. 
